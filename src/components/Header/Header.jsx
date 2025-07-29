@@ -46,9 +46,9 @@ export default function Header({ displayContactForm }) {
             <Link to="careers" className='contact-info high-button'>
               <HeaderButton text='Careers' />
             </Link>
-            <Link to="roof-faq" className='contact-info high-button'>
+            {/* <Link to="roof-faq" className='contact-info high-button'>
               <HeaderButton text='Roofing FAQ' />
-            </Link>
+            </Link> */}
           </div>
         </nav>
         <Grid container
@@ -65,8 +65,8 @@ export default function Header({ displayContactForm }) {
           }}
         >
           <Grid item>
-            <a href='tel:17207663377' className="contact-info">
-              <HeaderButton name='phone' text='(720)-ROOFERS' icon={true} />
+            <a href='tel:16127606838' className="contact-info">
+              <HeaderButton name='phone' text='(612)-760-6838' icon={true} />
             </a>
           </Grid>
           <Grid item>
