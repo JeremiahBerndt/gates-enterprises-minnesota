@@ -19,7 +19,7 @@ export default function MissionStatement({ name }) {
       <Helmet>
         <title>The Gates Enterprises Mission Statement</title>
         <meta name="description" content="The Gates Enterprises mission statement" />
-        <link rel="canonical" href="https://www.gatesroof.com/who-we-are" />
+        <link rel="canonical" href="https://www.gatesminnesota.com/who-we-are" />
       </Helmet>
       <Stack>
         <div style={{
@@ -113,7 +113,7 @@ export default function MissionStatement({ name }) {
             </Typography>
             <Typography variant="h6" align="center" sx={{ '> span': { padding: '2rem' } }}>
               <div>Industry leading products</div><br />
-              <div>Hand selected for Colorado</div><br />
+              <div>Hand selected for Minnesota</div><br />
               <div>Top performing roof systems</div><br />
             </Typography>
           </Grid>

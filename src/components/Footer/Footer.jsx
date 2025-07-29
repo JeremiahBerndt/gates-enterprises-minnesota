@@ -18,18 +18,21 @@ export default function Footer() {
       <Grid container direction="column" sx={{
         width: '70%',
         px: '1.5rem',
+        'div': {
+          padding: '2px',
+        },
         '> div > div': {
           fontSize: '1rem'
         }
       }}>
         <Grid>
-          <div>Gates Enterprises LLC</div>
+          <div>Gates Enterprises</div>
         </Grid>
         <Grid>
-          <div>1445 Holland St. Lakewood CO, 80215</div>
+          <div>2909 S Wayzata Blvd</div>
         </Grid>
         <Grid>
-          <div>(720) 766-3377</div>
+          <div>(612) 760-6838</div>
         </Grid>
         <Grid>
           <div>© 2024 Gates Roof | All Rights Reserved.</div>

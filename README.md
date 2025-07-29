@@ -2,7 +2,7 @@
 ---
 ## Gates Enterprises LLC Website
 
-[gatesenterprisesllc.com](http://www.gatesenterprisesllc.com)
+[gatesminnesota.com](http://www.gatesminnesota.com)
 ---
 
 This was a freelance project made in collaboration with Chris Anderson https://github.com/mistercanderson

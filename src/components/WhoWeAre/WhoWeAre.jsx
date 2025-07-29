@@ -20,8 +20,8 @@ export default function WhoWeAre({ name }) {
     <>
       <Helmet>
         <title>Gates Enterprises: Your Roofing Contractor for Every Project</title>
-        <meta name="description" content="From repairs to replacements, Gates Enterprises LLC is a premier roofing contractor. Get a free quote and experience the Gates Enterprises difference!" />
-        <link rel="canonical" href="https://www.gatesroof.com/who-we-are" />
+        <meta name="description" content="From repairs to replacements, Gates Enterprises is a premier roofing contractor. Get a free quote and experience the Gates Enterprises difference!" />
+        <link rel="canonical" href="https://www.gatesminnesota.com/who-we-are" />
       </Helmet>
       <Stack>
         <div style={{
@@ -75,7 +75,7 @@ export default function WhoWeAre({ name }) {
               The Most Equipped Company for the Job
             </Typography>
             <Typography variant="body1" color="black" sx={{ pb: '32px' }}>
-              Gates Enterprises LLC is committed to providing our customers with an
+              Gates Enterprises is committed to providing our customers with an
               unparalleled level of expertise and customer service in all our
               re-roofing projects. We are a small team hand picked for their
               expertise in exteriors construction and insurance claim management.
@@ -119,7 +119,7 @@ export default function WhoWeAre({ name }) {
             </Typography>
             <Typography variant="h6" align="center" sx={{ '> span': { padding: '2rem' } }}>
               <div>Industry leading products</div><br />
-              <div>Hand selected for Colorado</div><br />
+              <div>Hand selected for Minnesota</div><br />
               <div>Top performing roof systems</div><br />
             </Typography>
           </Grid>

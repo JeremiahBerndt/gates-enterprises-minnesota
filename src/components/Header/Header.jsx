@@ -18,6 +18,7 @@ export default function Header({ displayContactForm }) {
       </div>
       <div style={{
         paddingRight: '10%',
+        paddingTop: '10px',
         width: '100%',
         display: 'flex',
         flexDirection: 'column',

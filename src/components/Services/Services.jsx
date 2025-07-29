@@ -20,9 +20,9 @@ export default function Services() {
   return (
     <>
       <Helmet>
-        <title>Stop the Leak! 24/7 Emergency Roof Repair in Denver | Gates Enterprises</title>
-        <meta name="description" content="Don't panic! Gates Enterprise LLC offers 24/7 emergency repair for roof leaks. Get fast, reliable service, and stop water damage." />
-        <link rel="canonical" href="https://www.gatesroof.com/services" />
+        <title>Stop the Leak! 24/7 Emergency Roof Repair in Minnesota | Gates Enterprises</title>
+        <meta name="description" content="Don't panic! Gates Enterprise offers 24/7 emergency repair for roof leaks. Get fast, reliable service, and stop water damage." />
+        <link rel="canonical" href="https://www.gatesminnesota.com/services" />
       </Helmet>
       <Stack
         sx={{
@@ -86,10 +86,10 @@ export default function Services() {
               to guarantee our workmanship warranty.
             </Typography>
             <Typography variant="h4" color="primary.main">
-              We Know Colorado
+              We Know Minnesota
             </Typography>
             <Typography variant="body1" color="black">
-              Our team lives, works and knows Colorado weather and this understanding of
+              Our team lives, works and knows Minnesota weather and this understanding of
               our unique climate allows our roofing professionals to help you select the
               products that will provide the best protection for your home.
               We understand that a roof system is so much more than just the shingles, and
@@ -193,7 +193,7 @@ export default function Services() {
                 High performance synthetic roof underlayments
                 work with shingles to shield your home from moisture
                 infiltration and are the last line of defense against
-                leaks due to harsh Colorado weather.
+                leaks due to harsh Minnesota weather.
               </Typography>
               <Typography variant="h4" color="primary.main">
                 Ventilation
