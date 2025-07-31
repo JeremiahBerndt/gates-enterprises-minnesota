@@ -21,7 +21,7 @@ export default function WhoWeAre({ name }) {
       <Helmet>
         <title>Gates Enterprises: Your Roofing Contractor for Every Project</title>
         <meta name="description" content="From repairs to replacements, Gates Enterprises is a premier roofing contractor. Get a free quote and experience the Gates Enterprises difference!" />
-        <link rel="canonical" href="https://www.gatesminnesota.com/who-we-are" />
+        <link rel="canonical" href="https://www.gatesmontana.com/who-we-are" />
       </Helmet>
       <Stack>
         <div style={{
@@ -119,7 +119,7 @@ export default function WhoWeAre({ name }) {
             </Typography>
             <Typography variant="h6" align="center" sx={{ '> span': { padding: '2rem' } }}>
               <div>Industry leading products</div><br />
-              <div>Hand selected for Minnesota</div><br />
+              <div>Hand selected for Montana</div><br />
               <div>Top performing roof systems</div><br />
             </Typography>
           </Grid>

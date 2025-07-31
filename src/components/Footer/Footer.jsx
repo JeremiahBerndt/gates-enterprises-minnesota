@@ -29,10 +29,10 @@ export default function Footer() {
           <div>Gates Enterprises</div>
         </Grid>
         <Grid>
-          <div>2909 S Wayzata Blvd</div>
+          <div>821 N 27th St, Billings, MT 59101</div>
         </Grid>
         <Grid>
-          <div>(612) 760-6838</div>
+          <div>(406) 430-2242</div>
         </Grid>
         <Grid>
           <div>© 2024 Gates Roof | All Rights Reserved.</div>

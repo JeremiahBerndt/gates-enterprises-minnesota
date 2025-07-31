@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Grid, Button, Tooltip, ClickAwayListener } from '@mui/material';
+// import { useState } from 'react';
+import { Grid } from '@mui/material';
 import { useTheme } from '@mui/material/styles';
 import HeaderButton from './HeaderButton/HeaderButton';
 import DropDownButton from './DropDownButton';
@@ -65,8 +65,8 @@ export default function Header({ displayContactForm }) {
           }}
         >
           <Grid item>
-            <a href='tel:16127606838' className="contact-info">
-              <HeaderButton name='phone' text='(612)-760-6838' icon={true} />
+            <a href='tel:14064302242' className="contact-info">
+              <HeaderButton name='phone' text='(406)-430-2242' icon={true} />
             </a>
           </Grid>
           <Grid item>

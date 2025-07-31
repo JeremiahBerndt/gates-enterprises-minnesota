@@ -22,9 +22,9 @@ const RoofQuote = () => {
   return (
     <>
       <Helmet>
-        <title>Get an Instant Roof Quote in Minnesota</title>
+        <title>Get an Instant Roof Quote in Montana</title>
         <meta name="description" content="We use roof dimensions and your shingle selection to send you a cost estimate." />
-        <link rel="canonical" href="https://www.gatesminnesota.com/get-a-quote" />
+        <link rel="canonical" href="https://www.gatesmontana.com/get-a-quote" />
       </Helmet>
       <Stack>
         <div style={{

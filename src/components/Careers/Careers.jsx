@@ -27,7 +27,7 @@ export default function Careers({ name }) {
       <Helmet>
         <title>Careers available at Gates Enterprises</title>
         <meta name="description" content="A complete list of open jobs at Gates Enterprises across all markets" />
-        <link rel="canonical" href="https://www.gatesminnesota.com/careers" />
+        <link rel="canonical" href="https://www.gatesmontana.com/careers" />
       </Helmet>
       <Stack
         sx={{
