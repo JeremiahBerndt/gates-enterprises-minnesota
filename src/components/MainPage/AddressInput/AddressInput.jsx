@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useTheme } from '@mui/material';
 import Image from 'mui-image';
-import neighborhood from '../../../assets/images/neighborhood.jpg'
+import neighborhood from '../../../assets/images/billings.png'
 import { Typography, Box } from '@mui/material';
 import { slideFromLeft } from '../../../util/animations';
 import { useInView } from 'react-intersection-observer';
@@ -66,6 +66,7 @@ const AddressInput = () => {
             '> span': {
               color: 'secondary.main',
               display: 'block',
+              textShadow: "1px 1px 8px black",
               [theme.breakpoints.up('sm')]: {
                 display: 'inline',
               },
