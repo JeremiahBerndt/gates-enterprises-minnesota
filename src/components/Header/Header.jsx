@@ -73,7 +73,7 @@ export default function Header({ displayContactForm }) {
             <a href={`mailto:${email.address}?&subject=${email.subject}&body=${email.body}`} className="contact-info">
               <HeaderButton
                 name='email'
-                text='info@gatesroof.com'
+                text='alexgatesent@gmail.com'
                 icon={true}
               />
             </a>
