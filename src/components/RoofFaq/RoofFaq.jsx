@@ -25,8 +25,8 @@ export default function RoofFaq({ name }) {
     <>
       <Helmet>
         <title>Frequently Asked Questions and Roofing Info</title>
-        <meta name="description" content="FAQs, blog, and information on roofing, hail, and insurance in Montana." />
-        <link rel="canonical" href="https://www.gatesmontana.com/roof-faq" />
+        <meta name="description" content="FAQs, blog, and information on roofing, hail, and insurance in Nevada." />
+        <link rel="canonical" href="https://www.gatesroofingvegas.com/roof-faq" />
       </Helmet>
       <Stack
         sx={{

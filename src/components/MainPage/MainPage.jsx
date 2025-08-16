@@ -34,8 +34,8 @@ export default function MainPage({ displayContactForm }) {
     <main>
       <Helmet>
         <title>Gates Enterprises The #1 Choice for Roofing | Repair and Replacement</title>
-        <meta name="description" content="Get a free roof inspection or quote from the most trusted, relaible, and best roofer in Montana. Top-quality materials, expert installation, and guaranteed satisfaction!" />
-        <link rel="canonical" href="https://www.gatesmontana.com/" />
+        <meta name="description" content="Get a free roof inspection or quote from the most trusted, relaible, and best roofer in Nevada. Top-quality materials, expert installation, and guaranteed satisfaction!" />
+        <link rel="canonical" href="https://www.gatesroofingvegas.com/" />
       </Helmet>
       <Grid container direction="column">
         {/*ROOFLE*/}

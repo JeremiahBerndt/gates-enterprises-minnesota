@@ -47,7 +47,7 @@ function App() {
         displayContactForm={displayContactForm}
       />
       <Helmet>
-        <meta name="description" content="Montana's premier roofing company. Go with the experts" />
+        <meta name="description" content="Nevada's premier roofing company. Go with the experts" />
         <meta name="keywords" content="Get a roof quote, finance a roof, learn about hail damage and insurance claims" />
         <link rel="canonical" href="/" />
       </Helmet>

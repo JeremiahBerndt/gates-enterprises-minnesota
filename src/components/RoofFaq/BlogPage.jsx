@@ -44,7 +44,7 @@ const BlogPage = () => {
       <Helmet>
         <title>{blogPost.fields.blogTitle}</title>
         <meta name="description" content={blogPost.fields.blogTitle} />
-        <link rel="canonical" href={`https://www.gatesmontana.com/roof-faq/roofblog/${id}`} />
+        <link rel="canonical" href={`https://www.gatesroofingvegas.com/roof-faq/roofblog/${id}`} />
       </Helmet>
       <Stack sx={{ backgroundColor: 'white' }}>
         <Grid container sx={{ backgroundColor: '#c9a32c;' }}>

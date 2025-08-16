@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useTheme } from '@mui/material';
 import Image from 'mui-image';
-import neighborhood from '../../../assets/images/billings.png'
+import neighborhood from '../../../assets/images/vegas.jpeg'
 import { Typography, Box } from '@mui/material';
 import { slideFromLeft } from '../../../util/animations';
 import { useInView } from 'react-intersection-observer';

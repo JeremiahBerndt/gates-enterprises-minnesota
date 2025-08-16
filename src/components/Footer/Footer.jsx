@@ -29,10 +29,10 @@ export default function Footer() {
           <div>Gates Enterprises</div>
         </Grid>
         <Grid>
-          <div>821 N 27th St, Billings, MT 59101</div>
+          <div>3535 Executive Terminal Dr., Ste 110 Henderson, NV 89052</div>
         </Grid>
         <Grid>
-          <div>(406) 430-2242</div>
+          <div>(702) 551-7663</div>
         </Grid>
         <Grid>
           <div>© 2024 Gates Roof | All Rights Reserved.</div>

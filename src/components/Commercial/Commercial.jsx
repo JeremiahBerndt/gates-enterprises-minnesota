@@ -18,9 +18,9 @@ export default function Commercial({ name }) {
   return (
     <>
       <Helmet>
-        <title>Stop Leaks & Extend Your Roof's Life | Montana's Trusted Repair Specialists</title>
+        <title>Stop Leaks & Extend Your Roof's Life | Nevada's Trusted Repair Specialists</title>
         <meta name="description" content="Leaky roof? No problem! Gates Enterprises provides expert repairs for all types of roofs. Get a free quote and stop leaks fast!" />
-        <link rel="canonical" href="https://www.gatesmontana.com/commercial" />
+        <link rel="canonical" href="https://www.gatesroofingvegas.com/commercial" />
       </Helmet>
       <div style={{
         position: 'relative',
